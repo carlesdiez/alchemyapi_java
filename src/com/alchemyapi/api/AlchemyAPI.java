@@ -20,6 +20,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
 import org.xml.sax.SAXException;
+import filesjava.lang.Exception;
 
 public class AlchemyAPI {
 
